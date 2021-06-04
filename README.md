@@ -2,13 +2,15 @@
 Author: James Overby
 Version of Python being used: 3.9.5
 
-Contains the python file which contains the solutions to the first two exercises, and my response to the third question. I also put my answer to the third question within this readme file for accessibility.
+Python file which contains the solutions to the first two exercises, and my response to the third question. I also put my answer to the third question within this readme file for accessibility.
 
 Here are the exercises and questions below:
 
 1.) Print the number of integers in an array that are above the given input and the number that are below, e.g. for the array [1, 5, 2, 1, 10] with input 6, print “above: 1, below: 4”.
+  - The way this is setup is first it will ask you the desired length of the array being created, and then will ask which integer you want for each element within the array. Then the program asks you the value to enter and it will return with the answer "Above: X, Below: X".
 
 2.) Rotate the characters in a string by a given input and have the overflow appear at the beginning, e.g. “MyString” rotated by 2 is “ngMyStri”.
+  - This just simply asks you to enter a string and it will then output the string with the characters rotated to the right by 2.
 
 3.) If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
 
